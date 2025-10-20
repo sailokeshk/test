@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import './App.css';
 import ApiUseEffect from './Section3labprog/APIintegration';
-import SimpleForm from './Section3labprog/React_Formprog';
+import SimpleForm from './Form/React_Formprog';
 import { Hookscounterbtn } from './Section3labprog/Counterbtn';
 import Iterativerender from './Section3labprog/Iterativerender';
 import { Student } from './Section3labprog/Sendpropsdata';
